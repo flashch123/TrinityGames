@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: About
+navname: Hello My Name Is Theslowaja, I a founder TrinityGames
 ---
 
 # {{ site.serverName }}
